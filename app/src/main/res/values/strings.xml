@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NfcFinder</string>
+    <string name="open_settings">Open settings</string>
+    <string name="find_nfc">Find NFC</string>
+    <string name="find_cancel">Find cancel</string>
+    <string name="second">Second activity</string>
+</resources>
